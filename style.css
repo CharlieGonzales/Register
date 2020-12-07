@@ -307,6 +307,11 @@ li.rating5{
 .reg_form input[type=submit]{
     background-color: transparent;
 }
-#regsubmit input[type=submit]{
-font-weight:bold;
+td input[type=submit]{
+    font-weight: bold;
+    position: relative;
+    font-size: 20px;
+    top: 90px;
+    left: 137px;
+    cursor: pointer;
 }
