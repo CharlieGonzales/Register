@@ -307,6 +307,6 @@ li.rating5{
 .reg_form input[type=submit]{
     background-color: transparent;
 }
-td type[type=submit]{
+.regsubmit [type=submit]{
 font-weight:bold;
 }
